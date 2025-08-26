@@ -62,7 +62,7 @@ The future licensing and distribution model for public release is still under co
 
 For any questions, feedback, or business inquiries, feel free to reach out:
 
-- **Website** [isovox-editor.com](https://www.isovox-editor.com) *(As of now, this domain forwards directly to this page.)*
+- **Website** [isovox-editor.com](http://www.isovox-editor.com) *(As of now, this domain forwards directly to this page.)*
 - **Development Repository:** [isovox-editor-dev](https://github.com/Monster-Toys/isovox-editor-dev) *(Private repository)*
 - **Email:**    [hello@monster-toys.com](mailto:hello@monster-toys.com)
 - **Discord:** [Monster-Toys Community Server](https://discord.gg/UmJzynyRsp)
