@@ -38,7 +38,7 @@ Import textured 3D models from your favorite software and convert them into full
 ## Roadmap 
 (subject to change)
 
-[&nbsp;&nbsp;&nbsp;] Initial Setup (v0.1.0)  
+[✓] Initial Setup (v0.1.0)  
 [&nbsp;&nbsp;&nbsp;] 2D workspace (v0.1.1)  
 [&nbsp;&nbsp;&nbsp;] Isometric projection (v0.1.2)  
 [&nbsp;&nbsp;&nbsp;] 3D workspace (v0.1.3)  
