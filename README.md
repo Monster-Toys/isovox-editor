@@ -11,6 +11,7 @@
 ### Multiple GPU-Powered Workspaces
 
 Work seamlessly in 2D, isometric projection, or full 3D:
+
 - **2D Canvas:** Edit slices along any axis (X, Y, Z) with onion-skinning for depth alignment.
 - **Isometric Projection:** Paint directly in an isometric view, via real-time camera projection or layer-based editing.
 - **3D Workspace:** Work with a cube-mesh representation of voxel data.
@@ -20,6 +21,7 @@ Work seamlessly in 2D, isometric projection, or full 3D:
 ### Brush System
 
 Use familiar pixel-art tools in 2D and 3D:
+
 - **2D Brushes:** Pencil, shapes, lines, flood fill, selection, move, etc.
 - **3D Brushes:** Extend 2D tools into 3D space, painting across multiple slices at once with primitives or custom brushes.
 
@@ -35,7 +37,8 @@ Import textured 3D models from your favorite software and convert them into full
 - **Texture atlas**: For engine integration, if 3D textures are not supported.
 - **Mesh**: For use in other 3D software.
 
-## Roadmap 
+## Roadmap
+
 (subject to change)
 
 [✓] Initial Setup (v0.1.0)  
